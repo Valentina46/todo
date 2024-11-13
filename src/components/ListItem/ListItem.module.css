@@ -1,0 +1,17 @@
+
+.button {
+  background-color: transparent;
+  border: none;
+  color: #39373b;;
+}
+
+.taskItem {
+  border: 1px solid white;
+  color: #edeced;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-radius: 0px 8px 0px 8px;
+}
+
+  
